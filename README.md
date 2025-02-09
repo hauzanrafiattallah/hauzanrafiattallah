@@ -7,7 +7,6 @@
 
 <h3 align="center">A passionate software developer from Indonesia 🇮🇩</h3>
 
-
 <br/>
 
 <div align="center">
