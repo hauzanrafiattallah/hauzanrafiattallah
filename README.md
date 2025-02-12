@@ -9,7 +9,6 @@
 
 <br/>
 
-
 <div align="center">
  
  🔭 I’m currently study on **Telkom University**
