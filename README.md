@@ -1,6 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hauzanrafiattallah.hauzanrafiattallah" />
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hauzan+Rafi+Attallah!;" />
 </h1>
@@ -45,7 +44,6 @@
 
 <br/>
 
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -57,10 +55,21 @@
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hauzanrafiattallah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
 <br/><br/>
 
 <hr/>
+
+<img src="https://raw.githubusercontent.com/hauzanrafiattallah/hauzanrafiattallah/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hauzanrafiattallah/hauzanrafiattallah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hauzanrafiattallah/hauzanrafiattallah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hauzanrafiattallah/hauzanrafiattallah/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <br/>
 
