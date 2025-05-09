@@ -59,8 +59,6 @@
 
 <hr/>
 
-<img src="https://raw.githubusercontent.com/hauzanrafiattallah/hauzanrafiattallah/output/snake.svg" alt="Snake animation" />
-
 <hr/>
 
 ###
